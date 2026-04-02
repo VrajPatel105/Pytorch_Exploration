@@ -10,4 +10,5 @@ Covering:
 7. Building ANN
 8. Training on GPU
 9. Optimizing NN
-10. Hyperparameter Tuning
+10. Hyperparameter Tuning using Optuna
+11. CNN in Pytorch
