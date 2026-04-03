@@ -12,3 +12,10 @@ Covering:
 9. Optimizing NN
 10. Hyperparameter Tuning using Optuna
 11. CNN in Pytorch
+12. Transfer Learning
+13. RNN using Pytorch
+14. Next word Predictor in Pytorch
+
+
+
+This learning was done using Campusx: https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7
